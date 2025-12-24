@@ -7,7 +7,7 @@
 
 > A sketch-inspired, hand-drawn developer portfolio focused on clean code, performance, and delightful user experience. Built with React, TypeScript, and Tailwind CSS.
 
-**[🔗 Live Demo](sketch-portfolio.netlify.app)** • **[📖 Customization Guide](#customization)** • **[⭐ Star this Repo](https://github.com/SN7k/hand-drawn-portfolio)**
+**[🔗 Live Demo]([sketch-portfolio.netlify.app](https://sketch-portfolio.netlify.app/)** • **[📖 Customization Guide](#customization)** • **[⭐ Star this Repo](https://github.com/SN7k/hand-drawn-portfolio)**
 
 ---
 
