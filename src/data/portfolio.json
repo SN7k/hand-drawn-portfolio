@@ -1,0 +1,148 @@
+{
+  "personalInfo": {
+    "name": "SHOMBHUNATH KARAN",
+    "title": "Full-Stack Developer",
+    "subtitle": "Performance, Usability, and Clean Code",
+    "email": "shombhunathkaran@gmail.com",
+    "github": "https://github.com/sn7k",
+    "linkedin": "https://linkedin.com/in/shombhunath-karan",
+    "logo": "https://res.cloudinary.com/dlpskz98w/image/upload/v1765632519/profile_t066kq.png"
+  },
+  "availability": {
+    "label": "FullStack Developer",
+    "active": true
+  },
+  "aboutText": "I'm a full-stack developer who builds modern, clean, and user-friendly web applications with a focus on smooth experience and practical solutions.",
+  "techStack": [
+    {
+      "title": "Frontend",
+      "icon": "Globe",
+      "items": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "HTML5",
+        "CSS3",
+        "Tailwind",
+        "Vite"
+      ]
+    },
+    {
+      "title": "Backend",
+      "icon": "Database",
+      "items": [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "MongoDB",
+        "PHP",
+        "JWT"
+      ]
+    },
+    {
+      "title": "Tools",
+      "icon": "Layers",
+      "items": [
+        "Git",
+        "GitHub",
+        "Vercel",
+        "Render",
+        "Cloudinary",
+        "Postman"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "PRJ-01",
+      "name": "INCAMPUS",
+      "description": "Private college network for posts, memories, and campus updates.",
+      "tech": ["REACT", "TYPESCRIPT", "NODE.JS", "MONGODB"],
+      "github": "https://github.com/SN7k/InCampus",
+      "demo": "https://incampus1.netlify.app/",
+      "image": "https://res.cloudinary.com/dlpskz98w/image/upload/v1765634494/incampus_rd6ztk.png",
+      "type": "FULL STACK",
+      "color": "#ffeb3b"
+    },
+    {
+      "id": "PRJ-02",
+      "name": "BUSSEVA KOLKATA",
+      "description": "Discover Kolkata bus routes, stops, and visuals quickly.",
+      "tech": ["HTML5", "NODE.JS", "MONGODB", "MAPS"],
+      "github": "https://github.com/SN7k/bussevakolkata.site",
+      "demo": "https://bussevakolkata.site",
+      "image": "https://res.cloudinary.com/dlpskz98w/image/upload/v1765634493/busseva_kolkata_hqxevd.png",
+      "type": "UTILITY",
+      "color": "#b2ebf2"
+    },
+    {
+      "id": "PRJ-03",
+      "name": "Arvyax Wellness",
+      "description": "Wellness app with tips, goal tracking, and curated content.",
+      "tech": ["REACT", "VITE", "TAILWIND", "JWT"],
+      "github": "https://github.com/SN7k/arvyax-wellness-platform",
+      "demo": "https://arvyaxwellness.netlify.app",
+      "image": "https://res.cloudinary.com/dlpskz98w/image/upload/v1765634613/arvyaz_wwrvcq.gif",
+      "type": "WEB APP",
+      "color": "#f8bbd0"
+    },
+    {
+      "id": "PRJ-04",
+      "name": "Sillysites",
+      "description": "Playful studio portfolio of experimental web experiences.",
+      "tech": ["REACT", "TYPESCRIPT", "TAILWIND"],
+      "github": "https://github.com/SN7k/SillySites",
+      "demo": "https://sillysites.studio/",
+      "image": "https://res.cloudinary.com/dlpskz98w/image/upload/v1765634494/sillysites_ndi9jd.gif",
+      "type": "STUDIO",
+      "color": "#c8e6c9"
+    },
+    {
+      "id": "PRJ-05",
+      "name": "Splitaa",
+      "description": "Split bills, track expenses, and settle up effortlessly.",
+      "tech": ["JAVASCRIPT", "PHP", "SCSS", "TYPESCRIPT"],
+      "github": "https://github.com/SN7k/Splitaa",
+      "demo": "https://splitaa.snk.codes",
+      "image": "https://res.cloudinary.com/dlpskz98w/image/upload/v1765634494/Splitaa_vz5ojx.png",
+      "type": "WEB APP",
+      "color": "#d1c4e9"
+    },
+    {
+      "id": "PRJ-06",
+      "name": "win 11 portfolio",
+      "description": "A Windows 11 style portfolio UI built with Next.js",
+      "tech": ["TYPESCRIPT", "SCSS", "JAVASCRIPT", "HTML"],
+      "github": "https://github.com/SN7k/windows11-portfolio",
+      "demo": "https://portfolio.snk.codes",
+      "image": "https://res.cloudinary.com/dlpskz98w/image/upload/v1765652887/windows11_h9znhn.png",
+      "type": "WEB APP",
+      "color": "#ffccbc"
+    }
+  ],
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/sn7k",
+      "icon": "Github",
+      "hoverColor": "yellow"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/shombhunath-karan",
+      "icon": "Linkedin",
+      "hoverColor": "blue"
+    },
+    {
+      "name": "Twitter",
+      "url": "",
+      "icon": "Twitter",
+      "hoverColor": "zinc"
+    },
+    {
+      "name": "Mail",
+      "url": "mailto:shombhunathkaran@gmail.com",
+      "icon": "Mail",
+      "hoverColor": "red"
+    }
+  ]
+}
